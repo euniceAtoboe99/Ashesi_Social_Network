@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ashesi-social-network-384320",
+  "private_key_id": "ed8fbd3aaa19e58be1aa28988dd2ec4521ac487f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCo8Qk/y6sRiZUZ\nlFBahqiI657nZLhPVms3Z5gLU9SdULVQzBR7vd5tU7nWsgpgEvTHaQCVpMPGqO+U\nrZ1gFnXLEVZlvdcVfbJSW/PpEN8Sv5POn0YPw1QZTQJdvEjaCDRDyhnIcAmAEJuX\nPPXc/HL21Dwpw6zLaq6sBYDe8avWz6QOPvEdM/LOzjD2KxPYpK/6m6fOhWi4kBKX\nBb4c4HFZzl8GCUhXA5OndIsXN4fQOdqjCQQCYdi9fwq7WQfbcgNWra9AYQ++LXOh\nL+nzDD6NgAJ+9jcBmzUeVZC0eCx3jVZnjnasTGxlLAhWYCM8kzmXd+D1ViyFiVFq\nSc4QAztrAgMBAAECggEABFGVFke96cbbRDohtmQMLuPcaLc5wZ1zRDP7vl5i6Fqb\nJ/jvlRziG2gGhNHW/g8TVChVAX5NcD36pzxWR5Hgv6jZIo9bI4uBDCXu8vL2y43m\nLg6tmyg3ytBzJ7Ob0ScLNFMYRvgbkLsxSbPJ59+e42cYL/Z2lln1znlINWrMJRjt\nuNeXTE5Nxv91ezhm+0FSgHjVlNKyUEaOHTjMkbjy4+rMXWsw/bBSFPN/IVBzOKgC\nV3LTfB/VpbBhUFscTc88xNGJh1l9720NlvR7/vWaTOHaNoopx6hrb6iQGCmDssBs\n/of8OWMZ5EKQC3eFgM/XgbIS4kGikExGd4wbZQB+IQKBgQDpuFIe5gMoW3vSEL2L\nDZ/8QXLKTU1B8hfyVK8QzAlpEKodcFlqMr3LC36y5m5Ci6lKEQA22yg2ylVvNwFE\nZTgrGu4CJW42TFXfwWFHnbf6THMPpGIaLkbvy69xuOE246mbcZTfv3egFhOg0Wc0\nMF9+MV9TpOZu8ekRNngd/7wtowKBgQC5C95Visj46HzHAXXBSBGTJ/56pB5OdT9t\nNIxlApNL/72hNS6IIWxtcdm3Q7JEluRAYSl2AsH4Tok2WWP9LvyiVeH0E0EX2k/V\nRhLYAIhVZWUaUc+oakU7BaKX5NSctMZUIR7CNspQVB6SZvyoGFKm5EaCQwMflgtn\nPu/ms0mHmQKBgQDdIoDQq2Chdq2Y/C3au3F8A5DQyIMouh7eMjHR+ruMpS/P2tU/\nHfNlgeLG8i+w1uO+KIfDX2iVLqvXJnwUcpDKeBhp/3Bf/6ngo9+fGyNPt7XGPwpz\nKwYDLP065GpyvMVlRfpOGaLd3QWFS5wSTRKNG7nOMl+06T5UAu1ztNwfcQKBgQCA\nzSsP3c9vuduIZZLCW1ioVlFCqlPSBriEWexTLsy6PKOQv0TJSoJ/V5zUfFFsfp8X\n1MmYM+kx3fCSHPyFMZx1nlPtoS1Q3gtthx38rbo3vqD2BfYF4xqXL5/yHDyFaysV\nSgxv4NVHvpWdEARTOMLnGcOeTeixpq3/SoaPzUGkGQKBgQDUWnq7bLCLyBNEzeH+\nXyuWmAEPkwOs2VYLnpPj1itwXHM0BEHJ95vdBDe2X61EQpxaY7PI2OeRp0/R3oyj\nVF1iawfPqdf4tMLOrpGVGfgVh19Rjp4AxeajC/de9iIXvynzeihPPKtLdiQxGrPd\njftw0LPx3rEVF+f7F1UyAmL+EQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-i92c8@ashesi-social-network-384320.iam.gserviceaccount.com",
+  "client_id": "108717367235287385261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-i92c8%40ashesi-social-network-384320.iam.gserviceaccount.com"
+}
